@@ -29,3 +29,5 @@ Private_Target = 1;
 
 Figure S8 = Parameter_sweeps_density_x_frequency.m
 Figure S9 = All other Parameter_sweeps_[].m files
+
+Modeling_RawData contains .csv of all simulation data. 
